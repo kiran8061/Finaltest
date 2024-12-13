@@ -3,3 +3,7 @@
 git config user.name "Kiran_INFO" 
 git add MyFile.txt
 git commit -m "Update MyFile.txt with course name and code"
+git remote add origin https://github.com/kiran8061/TheFinalTest.git
+git branch -M main
+git push -u origin main
+
