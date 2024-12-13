@@ -1,3 +1,5 @@
 "" 
 "git add MyFile.txt" 
 git config user.name "Kiran_INFO" 
+git add MyFile.txt
+git commit -m "Update MyFile.txt with course name and code"
